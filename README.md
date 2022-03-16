@@ -8,3 +8,7 @@
 <br>
 
 앞으로 이 곳에 자바문법 공부에 사용한 코드를 업로드 하겠습니다.<br>
+
+<ul>
+  <li>ch1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a></li>
+</ul>
