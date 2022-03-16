@@ -1,4 +1,4 @@
-public class learn4 {
+public class ch1_learn4 {
     public static void main(String[] args){
         //변수의 타입
         int age = 25; //같은 정수타입이기에 저장이 가능
