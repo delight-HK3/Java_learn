@@ -1,4 +1,4 @@
-public class test {
+public class ch3_learn5 {
     public static void main(String[] args){
 	String s1 = "AB"; // 문자열 선언 방법1
         String s2 = new String("AB"); //문자열 선언 방법2
