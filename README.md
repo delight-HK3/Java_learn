@@ -12,4 +12,5 @@
 <ul>
   <li>ch1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a></li>
   <li>ch2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/64?category=1049727">접미사, 변수 변형, 기본형 과 참조형</a></li>
+  <li>ch3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/65">변수와 리터럴 타입 불일치, 문자와 문자열</a></li>
 </ul>
