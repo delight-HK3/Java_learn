@@ -1,4 +1,4 @@
-public class test {
+public class ch3_learn6 {
     public static void main(String[] args){
         String str1 = "A" + "B"; // 문자열 AB가 출력이 됩니다.
         String str2 = "" + "7"; //문자열 7이 출력됩니다.
