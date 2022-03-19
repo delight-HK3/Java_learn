@@ -1,4 +1,4 @@
-public class ch_temp_learn1 {
+public class ch5_learn1 {
     public static void main(String[] args) {
         //같은 값을 넣어도 지시자가 다르면 결과가 이렇게 나옵니다.
         System.out.printf("%d%n", 20); // 20 10진수 dec
