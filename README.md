@@ -14,4 +14,5 @@
   <li>ch2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/64?category=1049727">접미사, 변수 변형, 기본형 과 참조형</a></li>
   <li>ch3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/65?category=1049727">변수와 리터럴 타입 불일치, 문자와 문자열</a></li>
   <li>ch4 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/66?category=1049727">변수의 값 교환, 기본형과 참조형</a></li>
+  <li>ch5 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/68?category=1049727">printf 를 활용하여 출력하기</a></li>
 </ul>
