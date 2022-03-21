@@ -1,4 +1,4 @@
-public class ch1_learn3 {
+public class ch1_1_learn3 {
     public static void main(String[] args){
     	int x1 = 0; // 변수 x1을 선언 후 0으로 초기화
         int y1 = 5; // 변수 y1을 선언 후 5로 초기화
