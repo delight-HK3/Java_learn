@@ -1,4 +1,4 @@
-public class ch2_learn2 {
+public class ch1_2_learn2 {
     public static void main(String[] args){
     	boolean torf = false;
         	char ch = 'A';
