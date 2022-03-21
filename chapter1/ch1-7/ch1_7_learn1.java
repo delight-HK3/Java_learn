@@ -1,4 +1,4 @@
-public class ch7_learn1 {
+public class ch1_7_learn1 {
     public static void main(String[] args){
         short Min_s = -32768, Max_s = 32767;
         //short 타입의 범위는 -32768 ~ 32767까지 입니다.
