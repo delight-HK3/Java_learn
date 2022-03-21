@@ -9,7 +9,7 @@
 
 앞으로 이 곳에 자바문법 공부에 사용한 코드를 업로드 하겠습니다.<br><br>
 
-* chapter1
+### chapter1
   * ch1-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a>
   * ch1-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/64?category=1049727">접미사, 변수 변형, 기본형 과 참조형</a>
   * ch1-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/65?category=1049727">변수와 리터럴 타입 불일치, 문자와 문자열</a>
