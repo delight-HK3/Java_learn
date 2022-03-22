@@ -27,7 +27,7 @@ public class ch1_8_learn1 {
         	// 아스키코드표를 보면 숫자 53은 문자로 5이기 때문에 문자 5가 나옵니다.
 
         	ch1 = str3.charAt(2); 
-       	 	// 0,1,2 순으로 Hello의 3번 째 index인 l이 ch1에 저장이 됩니다.
+       	 	// 0,1,2 순으로 Hello의 2번 째 index인 l이 ch1에 저장이 됩니다.
         	System.out.println(ch1);// 문자 l
     	}
 }
