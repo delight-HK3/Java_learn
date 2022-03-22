@@ -12,7 +12,7 @@ public class ch1_8_learn1 {
         	System.out.println(Integer.parseInt("5") + 1); // 숫자 6
         	// 문자열을 숫자로 변경한 5 + 숫자 1 = 숫자 6
 
-        	System.out.printf("%.2f",Float.parseFloat(str2)); // 실수 3.14
+        	System.out.printf("%.2f%",Float.parseFloat(str2)); // 실수 3.14
         	// 문자열을 실수로 변경한 3.15
 
         	System.out.println("5" + 1);
