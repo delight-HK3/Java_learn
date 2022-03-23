@@ -7,7 +7,7 @@
 >사용한 강의 주소 : <a href="https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp">남궁성의 정석코딩 Java기본편</a><br>
 <br>
 
-앞으로 이 곳에 자바문법 공부에 사용한 코드를 업로드 하겠습니다.<br><br>
+앞으로 이 곳에 자바문법 공부에 사용한 코드를 업로드 하겠습니다, 강의중에 소스가 있던 것 위주로 업로드를 합니다, 그래서 이론강의가 대부분이었던 youtube강의의 chapter1은 github에 업로드는 하지는 않고 chapter2부터 업로드를 하겠습니다. <b>github의 chapter1은 youtube의 chapter2입니다.</b><br><br>
 
 ### chapter1
   * ch1-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a>
@@ -18,4 +18,7 @@
   * ch1-6 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/68?category=1049727">화면으로부터 입력받기</a>
   * ch1-7 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/73?category=1049727">정수형의 오버플로우</a>
   * ch1-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/75?category=1049727">타입간의 형 변환</a>
+
+### chapter2
+  * ch2-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/80">연산자와 피연산자</a>
 
