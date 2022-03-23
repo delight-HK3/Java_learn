@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ch6_learn1 {
+public class ch1_6_learn1 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in); // scan 객체 선언
 
