@@ -1,4 +1,4 @@
-public class ch_temp_learn4 {
+public class ch1_5_learn4 {
     public static void main(String[] args) {
         double test = 1.123413252;
         // %전체자리.소수점아래자리f
