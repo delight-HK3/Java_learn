@@ -1,4 +1,4 @@
-public class ch_temp_learn3 {
+public class ch1_5_learn3 {
     public static void main(String[] args) {
         // 실수 출력을 시키기 위해서는
         // 일반적으로 : %f
