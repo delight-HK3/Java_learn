@@ -1,4 +1,4 @@
-public class test {
+public class ch2_2_learn2 {
     public static void main(String[] args) {
         int su1;
         su1 = 10 + 20 - 5 + 1;
