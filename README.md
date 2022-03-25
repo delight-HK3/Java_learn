@@ -20,5 +20,5 @@
   * ch1-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/75?category=1049727">타입간의 형 변환</a>
 
 ### chapter2
-  * ch2-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/80">연산자와 피연산자</a>
+  * ch2-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/80">연산자의 종류</a>
 
