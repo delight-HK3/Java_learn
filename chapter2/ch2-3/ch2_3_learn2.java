@@ -1,4 +1,4 @@
-public class test {
+public class ch2_3_learn2 {
     public static void main(String[] args) {
         float flo2 = 1000; // int의 저장범위보다 float의 저장범위가 넓기 때문에 저장가능
         float flo3 = (float)1000; // 양쪽의 자료형은 일치하는 것이 좋다.
