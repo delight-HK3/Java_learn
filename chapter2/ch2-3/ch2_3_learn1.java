@@ -1,4 +1,4 @@
-public class test {
+public class ch2_3_learn1 {
     public static void main(String[] args) {
         float flo1 = 85.7f;
         int in = (int)flo1;
