@@ -1,4 +1,4 @@
-public class test {
+public class ch2_4_learn2 {
     public static void main(String[] args) {
         long lng1 = 100L; 
         int num1 = 10;
