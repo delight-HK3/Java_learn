@@ -1,4 +1,4 @@
-public class test {
+public class ch2_4_learn3 {
     public static void main(String[] args) {
         byte by1 = 10;
         short sh1 = 10;
