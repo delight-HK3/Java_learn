@@ -23,4 +23,5 @@
   * ch2-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/80">연산자의 종류</a>
   * ch2-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/81">연산자의 우선순위</a>
   * ch2-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/83">자료형 형변환</a>
+  * ch2-4 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/85">사칙연산자, 산술변환</a>
 
