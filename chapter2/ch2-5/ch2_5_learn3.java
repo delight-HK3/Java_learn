@@ -1,4 +1,4 @@
-public class test {
+public class ch2_5_learn3 {
      static double MakeRound(double index, int number){
         int round = 1;
         for(int i = 1; i < number; i++){
