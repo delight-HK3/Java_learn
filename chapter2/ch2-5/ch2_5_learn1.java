@@ -1,4 +1,4 @@
-public class test {
+public class ch2_5_learn1 {
     public static void main(String[] args) {
         double dou1 = 3143.443545;
         double dou2 = 3143.945356;
