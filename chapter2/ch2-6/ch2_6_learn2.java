@@ -1,4 +1,4 @@
-public class test {
+public class ch2_6_learn2 {
     public static void main(String[] args) {
         char ch1 = 'a';
         char ch2 = 'A';
