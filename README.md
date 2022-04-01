@@ -3,7 +3,7 @@
 >사용한 프레임워크 : 없음<br>
 >사용한 언어 : Java (Eclipse Temurin version 11)<br>
 >사용한 DB : 없음<br>
->사용한 Tool : intellij<br>
+>사용한 Tool : intellij IDEA ultimate (community 버전도 관계없습니다.)<br>
 >사용한 강의 주소 : <a href="https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp">남궁성의 정석코딩 Java기본편</a><br>
 <br>
 
@@ -26,5 +26,7 @@
   * ch2-4 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/85">사칙연산자, 산술변환</a>
   * ch2-5 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/87">반올림 함수, 나머지 연산자</a>
   * ch2-6 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/93">비교 연산자</a>
+  * ch2-7 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/94">논리 연산자</a>
+  * ch2-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/95">조건,대입 연산자</a>
  
 
