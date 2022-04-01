@@ -1,4 +1,4 @@
-public class test {
+public class ch2_6_learn3 {
     public static void main(String[] args) {
         String str1 = "test";
         String str2 = "test";
