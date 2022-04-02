@@ -7,7 +7,7 @@
 >사용한 강의 주소 : <a href="https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp">남궁성의 정석코딩 Java기본편</a><br>
 <br>
 
-앞으로 자바문법 공부에 사용한 코드를 업로드 하겠습니다, 강의중에 소스가 있던 것 위주로 업로드를 합니다, 그래서 이론강의가 대부분이었던 youtube강의의 chapter1은 github에 업로드는 하지는 않고 chapter2부터 업로드를 하겠습니다. <b>github의 chapter1은 youtube의 chapter2입니다.</b><br><br>
+앞으로 이 저장소에 자바문법 공부에 사용한 코드를 업로드 하겠습니다, 강의중에 소스가 있던 것 위주로 업로드를 합니다, 그래서 이론강의가 대부분이었던 youtube강의의 chapter1은 github에 업로드는 하지는 않고 chapter2부터 업로드를 하겠습니다. <b>github의 chapter1은 youtube의 chapter2입니다.</b><br><br>
 
 ### chapter1
   * ch1-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a>
