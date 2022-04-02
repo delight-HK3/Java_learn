@@ -1,4 +1,4 @@
-public class test {
+public class ch3_1_learn1 {
     public static void main(String[] args) {
         int num = 15;
         if(10 <= num && num <= 20){
