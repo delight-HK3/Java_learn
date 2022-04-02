@@ -29,4 +29,5 @@
   * ch2-7 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/94">논리 연산자</a>
   * ch2-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/95">조건,대입 연산자</a>
  
-
+### chapter3
+  * ch3-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/98">조건문 (if-else문)</a>
