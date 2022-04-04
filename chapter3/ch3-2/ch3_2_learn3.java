@@ -1,4 +1,4 @@
-public class test {
+public class ch3_2_learn3 {
     public static void main(String[] args) {
         int su1 = -1;
         if(10 <= su1){// 첫 번쨰 if문
