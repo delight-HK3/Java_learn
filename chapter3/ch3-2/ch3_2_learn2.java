@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ch3_2_learn2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);// scan 객체 생성
         System.out.printf("몸무게를 입력하세요 : ");
