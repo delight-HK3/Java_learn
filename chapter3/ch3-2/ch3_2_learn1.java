@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ch3_2_learn1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);// scan 객체 생성
         int su1 = scan.nextInt(); // int타입의 값을 입력하여 su1에 저장
