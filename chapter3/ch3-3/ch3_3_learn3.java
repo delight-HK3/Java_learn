@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ch3_3_learn3 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.printf("단일문자를 입력하세요 : ");
