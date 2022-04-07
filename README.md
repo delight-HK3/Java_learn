@@ -32,3 +32,4 @@
 ### chapter3
   * ch3-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/98">조건문 (if-else문)</a>
   * ch3-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/99">조건문 (if-else if문, 중첩 if문)</a>
+  * ch3-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/100">조건문 (switch-case문)</a>
