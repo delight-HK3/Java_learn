@@ -1,4 +1,4 @@
-public class test {
+public class ch3_4_learn2 {
     public static void main(String[] args) {
         System.out.println("//----------- 0.0 ~ 2.0 -----------//");
         for(int i=1; i<=5; i++){
