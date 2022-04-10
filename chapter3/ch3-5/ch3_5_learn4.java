@@ -1,4 +1,4 @@
-public class test {
+public class ch3_5_learn4 {
     public static void main(String[] args) {
         int i = 0;
         for(;;){
