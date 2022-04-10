@@ -1,4 +1,4 @@
-public class test {
+public class ch3_5_learn1 {
     public static void main(String[] args) {
         for(int i = 0; i < 5; i++){
             // int i 는 초기화
