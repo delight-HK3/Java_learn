@@ -1,4 +1,4 @@
-public class test {
+public class ch3_5_learn2 {
     public static void main(String[] args) {
         for(int i = 0, j = 0; i < 5 && j < 10; i++, j=j+2){
             // 초기값을 2개 정할 수 있고 조건식과, 증감식도 2개로 정할 수 있습니다.
