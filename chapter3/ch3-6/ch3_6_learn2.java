@@ -1,4 +1,4 @@
-public class test {
+public class ch3_6_learn2 {
     public static void main(String[] args) {
         for(int i=1; i<=10; i++){
             // 1 부터 시작하여 아래의 for문이 i값만큼 점자를 찍고나면
