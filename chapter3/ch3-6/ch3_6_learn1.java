@@ -1,4 +1,4 @@
-public class test {
+public class ch3_6_learn1 {
     public static void main(String[] args) {
 	    for(int i=2; i<=9; i++){
             // 2부터 반복을 시작하여 아래의 반복을 마치면
