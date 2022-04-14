@@ -1,4 +1,4 @@
-public class test {
+public class ch3_6_learn3 {
     public static void main(String[] args) {
         for(int i=10; 1<=i; i--){
             // 큰 순으로 나열하기위해서는 10부터 시작하여 1씩 
