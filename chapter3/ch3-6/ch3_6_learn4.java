@@ -1,4 +1,4 @@
-public class test {
+public class ch3_6_learn4 {
     public static void main(String[] args) {
         for(int i = 0; i < 11; i=i+2 ) {
             // 모래시계의 점자를 11부터 출력
