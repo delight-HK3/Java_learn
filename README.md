@@ -34,5 +34,5 @@
   * ch3-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/99">조건문 (if-else if문, 중첩 if문)</a>
   * ch3-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/100">조건문 (switch-case문)</a>
   * ch3-4 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/102">임의의 정수만들기</a>
-  * ch3-5 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/103">반복문(for문)</a>
-  * ch3-6 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/104">반복문(중첩for문)</a>
+  * ch3-5 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/103">반복문 (for문)</a>
+  * ch3-6 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/104">반복문 (중첩for문)</a>
