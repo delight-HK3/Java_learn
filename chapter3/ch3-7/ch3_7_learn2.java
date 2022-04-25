@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ch3_7_learn2 {
     public static void main(String[] args) {
         int innum = 0;
         do{
