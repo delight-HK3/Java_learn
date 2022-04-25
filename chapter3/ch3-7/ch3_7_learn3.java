@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class ch3_7_learn3 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in); // scan 객체 선언
         System.out.printf("임의의 수를 입력하세요 : ");
