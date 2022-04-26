@@ -12,7 +12,7 @@ class Recipe{
         System.out.println(knife);
     }
 }
-public class test {
+public class ch5_1_learn1 {
     public static void main(String[] args) {
         Recipe menu = new Recipe();
         // menu이름의 참조변수 선언과 동시에 객체를 참조변수에 저장
