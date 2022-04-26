@@ -1,4 +1,4 @@
-public class test {
+public class ch3_8_learn1 {
     public static void main(String args[]) {
         int num = 0;
         turn : for(int x=1; x<=9; x++){ // for문에 turn이름을 작성
