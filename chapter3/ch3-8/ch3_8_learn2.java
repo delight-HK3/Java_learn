@@ -1,4 +1,4 @@
-public class test {
+public class ch3_8_learn2 {
     public static void main(String args[]) {
         int num = 0;
         run : while(true){ // while문에 run이름을 작성
