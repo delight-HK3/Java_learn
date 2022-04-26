@@ -9,7 +9,7 @@
 
 앞으로 이 저장소에 자바문법 공부에 사용한 코드를 업로드 하겠습니다, 강의중에 소스가 있던 것 위주로 업로드를 합니다, 그래서 이론강의가 대부분이었던 youtube강의의 chapter1은 github에 업로드는 하지는 않고 chapter2부터 업로드를 하겠습니다. <b>github의 chapter1은 youtube의 chapter2입니다.</b><br><br>
 
-### chapter1
+### chapter1 (Java 기본)
   * ch1-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/62?category=1049727">변수, 상수, 리터럴</a>
   * ch1-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/64?category=1049727">접미사, 변수 변형, 기본형 과 참조형</a>
   * ch1-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/65?category=1049727">변수와 리터럴 타입 불일치, 문자와 문자열</a>
@@ -19,7 +19,7 @@
   * ch1-7 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/73?category=1049727">정수형의 오버플로우</a>
   * ch1-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/75?category=1049727">타입간의 형 변환</a>
 
-### chapter2
+### chapter2 (Java 기본)
   * ch2-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/80">연산자의 종류</a>
   * ch2-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/81">연산자의 우선순위</a>
   * ch2-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/83">자료형 형변환</a>
@@ -29,7 +29,7 @@
   * ch2-7 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/94">논리 연산자</a>
   * ch2-8 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/95">조건,대입 연산자</a>
  
-### chapter3
+### chapter3 (Java 기본)
   * ch3-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/98">조건문 (if-else문)</a>
   * ch3-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/99">조건문 (if-else if문, 중첩 if문)</a>
   * ch3-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/100">조건문 (switch-case문)</a>
