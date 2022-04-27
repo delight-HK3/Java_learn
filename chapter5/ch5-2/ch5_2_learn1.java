@@ -6,7 +6,7 @@ class num{
         System.out.printf("display 함수호출%n");
     }
 }
-public class test {
+public class ch5_2_learn1 {
     public static void main(String[] args) {
         num n = new num();
         // num클래스 타입의 참조변수 n선언 후 num인스턴스를 생성하고
