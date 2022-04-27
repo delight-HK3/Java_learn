@@ -13,7 +13,7 @@ class Wheel{ // Wheel 클래스 선언
         return result; // result를 리턴
     }
 }
-public class test {
+public class ch5_2_learn2 {
     public static void main(String[] args) {
         Wheel wheel = new Wheel(); // wheel참조변수를 선언과 동시에 Wheel인스턴스 주소를 wheel참조변수에 저장
         Scanner scan = new Scanner(System.in); // scan 객체 선언
