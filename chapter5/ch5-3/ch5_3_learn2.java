@@ -23,7 +23,7 @@ class Array { // 클래스 Array 선언
         // setter함수로 num1, num2를 더해준다.
     }
 }
-public class test {
+public class ch5_3_learn2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.printf("만들 배열의 수를 정수로 입력하십시오 : ");
