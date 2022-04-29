@@ -1,7 +1,7 @@
 class Array { // 클래스 Array 선언
     int num1;
 }
-public class test {
+public class ch5_3_learn1 {
     public static void main(String[] args) {
         Array array1 = new Array();
         // array1이름의 참조변수 선언과 동시에 Array인스턴스의 주소를 array1에 저장
