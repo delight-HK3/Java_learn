@@ -47,3 +47,4 @@
   * ch5-1 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/88">클래스와 객체</a>
   * <a href="https://juniorprogram.tistory.com/89">한 파일에 여러 클래스 작성</a>
   * ch5-2 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/90">객체 생성과 사용</a>
+  * ch5-3 강의설명 포스트 : <a href="https://juniorprogram.tistory.com/91">객체배열</a>
