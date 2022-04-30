@@ -23,7 +23,7 @@ class DoubleArray{ // DoubleArray 클래스선언
         System.out.printf("================%n");
     }
 }
-public class test {
+public class ch5_3_learn3 {
     public static void main(String[] args) {
         DoubleArray[][] doubleArray = new DoubleArray[3][];
         // 2차원 객체배열을 3만큼 생성
