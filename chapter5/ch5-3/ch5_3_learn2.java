@@ -39,5 +39,5 @@ public class ch5_3_learn2 {
             array[j].view(j);
             // array의 view함수를 통해 객체배열의 내용을 출력
         }
-    }
+    } 
 }
