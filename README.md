@@ -5,6 +5,7 @@
 >사용한 DB : 없음<br>
 >사용한 Tool : intellij IDEA ultimate (community 버전도 관계없습니다.)<br>
 >사용한 강의 주소 : <a href="https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp">남궁성의 정석코딩 Java기본편</a><br>
+>테스트한 OS : Window 10<br>
 <br>
 
 앞으로 이 저장소에 자바문법 공부에 사용한 코드를 업로드 하겠습니다, 강의중에 소스가 있던 것 위주로 업로드를 합니다, 그래서 이론강의가 대부분이었던 youtube강의의 chapter1은 github에 업로드는 하지는 않고 chapter2부터 업로드를 하겠습니다. <b>github의 chapter1은 youtube의 chapter2입니다.</b><br><br>
