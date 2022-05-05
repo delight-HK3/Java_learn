@@ -12,10 +12,10 @@ class Recipe{
         System.out.println(knife);
     }
 }
-public class ch5_1_learn1 {
+public class test {
     public static void main(String[] args) {
         Recipe menu = new Recipe();
-        // menu이름의 참조변수 선언과 동시에 객체를 참조변수에 저장
+        // menu이름의 레퍼런스 변수 선언과 동시에 인스턴스를 저장
         menu.spice = 10; // Recipe 클래스의 spice변수에 10을 저장
         menu.flour = 5; // Recipe 클래스의 flour변수에 5를 저장
         menu.knife = "칼질"; // Recipe 클래스의 knife변수에 "칼질"문자열을 저장
