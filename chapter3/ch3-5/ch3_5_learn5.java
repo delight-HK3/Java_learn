@@ -1,4 +1,4 @@
-public class test {
+public class ch3_5_learn5 {
     public static void main(String[] args) {
         String[] str_array = {"test1","test2","test3","test4"};
         // 문자열 타입으로 배열을 선언 및 초기화
