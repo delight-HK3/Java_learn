@@ -3,7 +3,7 @@
 >사용한 프레임워크 : 없음<br>
 >사용한 언어 : Java (Eclipse Temurin version 11)<br>
 >사용한 DB : 없음<br>
->사용한 Tool : intellij IDEA ultimate (community 버전도 관계없습니다.)<br>
+>개발 Tool : intellij IDEA ultimate (community 버전도 관계없습니다.)<br>
 >사용한 강의 주소 : <a href="https://www.youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp">남궁성의 정석코딩 Java기본편</a><br>
 >테스트한 OS : Window 10<br>
 <br>
